@@ -7,6 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+
 namespace StabilityMatrix.Analyzers {
     using System;
     
