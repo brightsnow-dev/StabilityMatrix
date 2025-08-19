@@ -1,8 +1,8 @@
 <Project>
   <ItemGroup>
-    <PackageVersion Include="Apizr" Version="6.3.0" />
-    <PackageVersion Include="Apizr.Extensions.Microsoft.Caching" Version="6.3.0" />
-    <PackageVersion Include="Apizr.Extensions.Microsoft.DependencyInjection" Version="6.3.0" />
+    <PackageVersion Include="Apizr" Version="6.4.2" />
+    <PackageVersion Include="Apizr.Extensions.Microsoft.Caching" Version="6.4.2" />
+    <PackageVersion Include="Apizr.Extensions.Microsoft.DependencyInjection" Version="6.4.2" />
     <PackageVersion Include="Apizr.Integrations.Fusillade" Version="6.3.0" />
     <PackageVersion Include="AsyncAwaitBestPractices" Version="9.0.0" />
     <PackageVersion Include="AutoComplete.Net" Version="1.2211.2014.42" />
