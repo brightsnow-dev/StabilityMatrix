@@ -1,6 +1,6 @@
 <Project>
   <ItemGroup>
-    <PackageVersion Include="Apizr" Version="6.3.0" />
+    <PackageVersion Include="Apizr" Version="6.4.2" />
     <PackageVersion Include="Apizr.Extensions.Microsoft.Caching" Version="6.3.0" />
     <PackageVersion Include="Apizr.Extensions.Microsoft.DependencyInjection" Version="6.3.0" />
     <PackageVersion Include="Apizr.Integrations.Fusillade" Version="6.3.0" />
