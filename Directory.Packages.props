@@ -87,7 +87,7 @@
     <PackageVersion Include="Yoh.Text.Json.NamingPolicies" Version="1.1.2" />
   </ItemGroup>
   <ItemGroup Label="Avalonia">
-    <PackageVersion Include="AsyncImageLoader.Avalonia" Version="3.2.1" />
+    <PackageVersion Include="AsyncImageLoader.Avalonia" Version="3.3.0" />
     <PackageVersion Include="Avalonia.AvaloniaEdit" Version="11.1.0" />
     <PackageVersion Include="Avalonia.Controls.DataGrid" Version="$(AvaloniaVersion)" />
     <PackageVersion Include="Avalonia.Controls.ItemsRepeater" Version="11.1.4" />
